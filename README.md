@@ -2,10 +2,15 @@
 Please make sure that you have installed all the necessary modules as follows in your command prompt or terminal.
 
 pip install requests
+
 pip install beautifulsoup4
+
 pip install openai
+
 pip install pinecone-client
+
 pip install streamlit
+
 pip installsentence_transformers pinecone-client openai -q
 
 **vectorization.py**
